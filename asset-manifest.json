@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/karthik-3/static/css/main.e6c13ad2.css",
+    "main.js": "/karthik-3/static/js/main.005fdc96.js",
+    "static/js/453.986b537a.chunk.js": "/karthik-3/static/js/453.986b537a.chunk.js",
+    "index.html": "/karthik-3/index.html",
+    "main.e6c13ad2.css.map": "/karthik-3/static/css/main.e6c13ad2.css.map",
+    "main.005fdc96.js.map": "/karthik-3/static/js/main.005fdc96.js.map",
+    "453.986b537a.chunk.js.map": "/karthik-3/static/js/453.986b537a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.005fdc96.js"
+  ]
+}
